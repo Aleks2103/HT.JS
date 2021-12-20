@@ -37,11 +37,6 @@
   max-height: 400px;
   margin: 15px;
 }
-.btn{
-  display: flex;
-  justify-content: space-between;
-  background-color: rgb(240, 231, 232);
-}
 .MuiPagination-ul{
   display: flex;
   justify-content: center;
@@ -52,19 +47,12 @@
   color: white;
 }
 #outlined-basic{
-  width: 100vh;
-}
-
-.form{
-  padding: 30px;
-  display: flex !important;
-  justify-content: center;
-  width: 100%;
+  width: 70vh;
 }
 
 
 .button{
-  margin-left: 30px !important;
+  height: 55px;
 }
 
 .App-link {
